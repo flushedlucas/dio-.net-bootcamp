@@ -1,0 +1,5 @@
+.Net Framework
+https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48
+
+VS Code
+https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user
